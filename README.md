@@ -1,5 +1,5 @@
 # google-map-review-scrapping
-Google Map Review Scrapping
+Google Map Review Web Scrapping
 
 **Requirements:**
 
